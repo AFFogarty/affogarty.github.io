@@ -1,0 +1,15 @@
+title: Andrew Fogarty - Software Engineer
+description: Personal website of Andrew Fogarty, Software Engineer
+author: Andrew Fogarty
+url: https://andrewfogarty.net
+
+# Build settings
+markdown: kramdown
+theme: null
+
+# Exclude files from the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
