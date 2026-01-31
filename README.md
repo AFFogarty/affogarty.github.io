@@ -20,7 +20,7 @@ This is a simple, clean personal website that provides professional contact info
 To run this site locally:
 
 1. **Prerequisites**
-   - Ruby (2.7 or higher recommended)
+   - Ruby (3.0 or higher recommended)
    - Bundler (`gem install bundler`)
 
 2. **Installation**
